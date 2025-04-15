@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button";
 const CTA = () => {
   return (
     <section className="relative py-16 overflow-hidden">
-      <div className="absolute inset-0 hero-gradient opacity-90"></div>
+      <div className="absolute inset-0 bg-gradient-to-r from-pactgreen-600 to-pactgreen-800 opacity-90"></div>
       <div className="container mx-auto px-4 relative z-10">
         <div className="max-w-3xl mx-auto text-center">
           <h2 className="text-3xl md:text-4xl font-bold text-white mb-6">
